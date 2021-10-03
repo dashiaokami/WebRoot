@@ -1,0 +1,23 @@
+div {
+  border: solid;
+}
+
+img{
+  height: 250px;
+  float: left;
+  border-radius: 50%;
+}
+
+#name{
+  clear: both;
+}
+
+#column1{
+  background-color: lightblue;
+}
+#column2{
+  background-color: lightgray;
+}
+body{
+  font-family: sans-serif;
+}
