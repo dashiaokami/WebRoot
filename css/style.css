@@ -21,3 +21,9 @@ img{
 body{
   font-family: sans-serif;
 }
+
+#box{
+  border: solid;
+  background-color: lightblue;
+  text-align: center;
+}
